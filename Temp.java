@@ -10,6 +10,8 @@ public class Temp {
 
 		System.out.println(number);
 		System.out.println(word);
+//good
+
 
 		sc.close();
 	        }
